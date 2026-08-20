@@ -1,6 +1,6 @@
 const services = [
   ["CN", "Nhập khẩu chính ngạch Trung Quốc", "Đồng hành từ tìm nguồn, đàm phán, hợp đồng đến khai báo hải quan và giao hàng tận nơi."],
-  ["01", "Vận chuyển quốc tế", "Giải pháp đường bộ, đường biển và đường hàng không phù hợp từng loại hàng, thời gian và ngân sách."],
+  ["01", "Vận chuyển quốc tế & Việt Nam", "Giải pháp đường bộ, đường biển và đường hàng không phù hợp từng loại hàng, thời gian và ngân sách."],
   ["02", "Khai báo hải quan", "Tư vấn mã HS, thuế, hồ sơ chuyên ngành và xử lý thủ tục minh bạch, đúng quy định."],
   ["03", "Kho bãi & phân phối", "Nhận hàng, kiểm đếm, lưu kho, đóng gói và phân phối linh hoạt đến điểm bán trên toàn quốc."],
 ];
